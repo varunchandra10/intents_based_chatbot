@@ -8,6 +8,8 @@ Demo-Link :
 ## Overview
 IntelliChat AI is a chatbot built using Natural Language Processing (NLP) and Machine Learning techniques. It processes user inputs and responds based on the pre-trained model's understanding of user intents.
 
+## Important Note to inform users that the project is still under development and improvements are planned for the future.
+
 ## Project Setup Instructions
 
 ### 1. Clone the Repository
